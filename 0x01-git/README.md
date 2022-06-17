@@ -1,2 +1,2 @@
 “my second commit”
-"Up coming Software Engineer"
+"Up-coming Software Engineer"
